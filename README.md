@@ -1,4 +1,4 @@
-# 📶 PyDar - Python Radar Simulator 🐍
+# PyDar - Python Radar Simulator
 
 A high-fidelity radar simulation in Python, designed for educational and research purposes. PyDar provides comprehensive radar system modeling, signal processing, and visualization capabilities.
 
